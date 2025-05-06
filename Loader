@@ -1,0 +1,4 @@
+-- Bypass
+loadstring(game:HttpGet("https://raw.githubusercontent.com/phfantoms/NoxHub-Key-Bypass/refs/heads/main/Bypass", true))()
+-- Main Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/loader", true))()
